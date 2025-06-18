@@ -1,0 +1,4 @@
+../Core/Src/main.c:17:6:update_sensor_readings	16	static
+../Core/Src/main.c:27:6:update_lcd_display	48	static
+../Core/Src/main.c:38:6:update_outputs	8	static
+../Core/Src/main.c:71:5:main	16	static

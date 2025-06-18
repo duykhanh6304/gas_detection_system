@@ -1,0 +1,3 @@
+../Core/Src/led.c:8:6:LED_Init	2
+../Core/Src/led.c:17:6:blink_red_led	2
+../Core/Src/led.c:35:7:get_freq	3

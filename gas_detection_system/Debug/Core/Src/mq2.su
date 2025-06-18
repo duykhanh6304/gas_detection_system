@@ -1,0 +1,5 @@
+../Core/Src/mq2.c:9:6:ADC1_Init	4	static
+../Core/Src/mq2.c:20:10:ADC1_Read	4	static
+../Core/Src/mq2.c:26:7:calculate_Rs	24	static
+../Core/Src/mq2.c:32:7:read_rs	16	static
+../Core/Src/mq2.c:41:7:get_ppm	24	static
